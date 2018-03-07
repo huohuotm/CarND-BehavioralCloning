@@ -18,6 +18,16 @@ Download data from [百度云](https://pan.baidu.com/s/1-nj90liWybd9Vmu-7oSzxg).
 
 
 
+### Content 
+
+* `clone.py` train file
+* `datat_pre.py`  preprocess dataset, output `X_train.npy` and `y_train.npy` 
+* `drive.py` used for drive in the simulator
+* `model.h5` trained model using original dataset and dataset from manual driving 
+* `data` folder contains total train dataset,
+* `data_original` folder contains the original provided dataset
+* `manual_data` folder contains the dataset from manual driving 
+
 ___________________________________________________________________________________________________________________________ Udacity Readme.md _____________________________________________________________________________________________________________________________ 
 
 # Behaviorial Cloning Project
